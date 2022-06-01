@@ -428,6 +428,7 @@ return`
 ├ Arifi Razzaq
 ├ Deff
 ├ Katame
+├ AzzBot
 ├ Nelson
 ├ Yuda
 └───────
@@ -438,39 +439,30 @@ return`
 exports.donasi  = (ownernomer) => {
 	return`
 —————「 *DONATE* 」—————
-
 Hai kak ☺️ 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
 Berapapun donasi kalian akan sangat berarti 👍
-
 Thanks!
 
 ———「 *SEWA | RUN BOT* 」———
-
   *_SEWA BOT_* 
-  *≻* Sewa Bot Gratis/1grup (1 hari )
-  *≻* Sewa Bot 15k/1grup (1 minggu)
+  *≻* Sewa Bot 5k/1grup (1 minggu)
+  *≻* Sewa Bot 15k/1grup (3 minggu)
   *≻* Sewa Bot 20k/2grup (1 bulan)
-  *≻* Sewa Bot 30k/4grup (Permanen)
-
-  *JADI BOT*  *Tutup*
-  *≻* Jadi Bot 15k Tidak Owner (1 minggu)
-  *≻* Jadi Bot + Owner 20k (1 bulan)
-  *≻* Jadi Bot + Owner 30k (Permanen)
-
+  *≻* Sewa Bot 48k/3grup (1 tahun)
+  *JADI BOT*  *Buka*
+  *≻* Jadi Bot + Owner 50k (Permanen)
   *JASA RUN BOT*
   *≻* Run Bot 15k (1 minggu)
   *≻* Run Bot 20k (1 bulan)
   *≻* Run Bot 20k (Permanen)
-
    *_PEMBAYARAN_* 
    - _Dana_
    - _Pulsa +5k_
  
   *Minat? Langsung chat aja ya cuy 🐦*
-
   *Contact person Owner* :
-  https://wa.me/message/LQNEJVLYV5HZI1
+  http://Wa.me/6281511480762
 `
 }
 
@@ -934,6 +926,7 @@ exports.thanksto = () => {
 ├ Arifi Razzaq
 ├ Deff
 ├ Katame
+├ AzzBot
 ├ Nelson
 ├ Yuda
 └───────
