@@ -18,20 +18,20 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281241100804','6281241100804','6281241100804']
-global.premium = ['6281241100804']
-global.ownernomer = '6281241100804'
-global.ownername = '𝐍𝐞𝐥𝐬𝐨𝐧'
-global.botname = '𝙉𝙚𝙡𝘽𝙤𝙩-𝐌𝐃'
-global.footer = '𝐍𝐞𝐥𝐬𝐨𝐧'
-global.youtube = 'https://vt.tiktok.com/ZSdPqwKTg/'
+global.owner = ['6281511480762','6281511480762','6281511480762']
+global.premium = ['6281511480762']
+global.ownernomer = '6281511480762'
+global.ownername = 'AzzBot'
+global.botname = 'AzzBot-wa'
+global.footer = 'AzzBot'
+global.youtube = 'http://tiktok.com/@kapten_wibu1'
 global.ig = 'https://instagram.com/nelson_randanan'
-global.mygc = 'https://chat.whatsapp.com/BFFKYGNsvrk9iOLyjrkIib'
-global.myweb = 'https://vt.tiktok.com/ZSdPqwKTg/'
-global.email = 'nelsonrandanan@gmail.com'
+global.mygc = 'https://chat.whatsapp.com/J2HWEw6ni111WIpbOpNOmG'
+global.myweb = 'http://tiktok.com/@kapten_wibu1'
+global.email = 'yahyaadhid5@gmail.com'
 global.region = 'Indonesia'
-global.packname = '𝙉𝙚𝙡𝘽𝙤𝙩-𝐌𝐃'
-global.author = 'By Nelson'
+global.packname = 'AzzBot-wa'
+global.author = 'By Yahya'
 global.santuy = '𝗗𝗶 𝗯𝗮𝘄𝗮 𝘀𝗮𝗻𝘁𝘂𝘆 𝗮𝗷𝗮 😎'
 global.sessionName = 'Nelson'
 global.prefa = ['','!','.','🐦','🐤','🗿']
