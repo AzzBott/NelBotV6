@@ -4360,7 +4360,7 @@ break
 break
 case 'menu': {
 if(typemenu == 'image'){
-await chika.send5ButImg(from, `` + '' + lang.menu(botname, pushname, salam), `© ${ownername}`,thumb, [{"urlButton": {"displayText": "𝐌𝐲 𝐓𝐢𝐤𝐓𝐨𝐤","url": `${youtube}`}},{"urlButton": {"displayText": `𝐌𝐲 𝐆𝐫𝐮𝐩`,"url": `${mygc}`}},{"quickReplyButton": {"displayText": "Owner","id": 'owner'}},{"quickReplyButton": {"displayText": "List Menu","id": 'command'}},{"quickReplyButton": {"displayText": "\n\n 𝗦𝗮𝘆𝗮 𝗣𝗲𝗱𝗼 𝗗𝗮𝗻 𝗦𝗮𝘆𝗮 𝗕𝗮𝗻𝗴𝗴𝗮 (≧▽≦) ","id": 'awkokkkkkk'}}] )
+await chika.send5ButImg(from, `` + '' + lang.menu(botname, pushname, salam), `© ${ownername}`,thumb, [{"urlButton": {"displayText": "𝐌𝐲 𝐓𝐢𝐤𝐓𝐨𝐤","url": `${youtube}`}},{"urlButton": {"displayText": `𝐌𝐲 𝐆𝐫𝐮𝐩`,"url": `${mygc}`}},{"quickReplyButton": {"displayText": "☠︎︎𝐎𝐰𝐧𝐞𝐫☠","id": 'owner'}},{"quickReplyButton": {"displayText": "List Menu","id": 'command'}},{"quickReplyButton": {"displayText": "\n\n 𝗦𝗮𝘆𝗮 𝗣𝗲𝗱𝗼 𝗗𝗮𝗻 𝗦𝗮𝘆𝗮 𝗕𝗮𝗻𝗴𝗴𝗮 (≧▽≦) ","id": 'awkokkkkkk'}}] )
 setTimeout( () => {
   sound(from)
   }, 1000),
@@ -4369,7 +4369,7 @@ setTimeout( () => {
   }, 1200)
 }
 if(typemenu == 'gif'){
-await chika.send5ButGif(from, `` + '' + lang.menu(botname, pushname, salam), `© ${ownername}`,velochika, [{"urlButton": {"displayText": "𝐌𝐲 𝐓𝐢𝐤𝐓𝐨𝐤","url": `${youtube}`}},{"urlButton": {"displayText": `𝐌𝐲 𝐆𝐫𝐮𝐩`,"url": `${mygc}`}},{"quickReplyButton": {"displayText": "Owner","id": 'owner'}},{"quickReplyButton": {"displayText": "List Menu","id": 'command'}},{"quickReplyButton": {"displayText": "\n\n 𝗦𝗮𝘆𝗮 𝗣𝗲𝗱𝗼 𝗗𝗮𝗻 𝗦𝗮𝘆𝗮 𝗕𝗮𝗻𝗴𝗴𝗮 (≧▽≦) ","id": 'awkokkkkkk'}}] )
+await chika.send5ButGif(from, `` + '' + lang.menu(botname, pushname, salam), `© ${ownername}`,velochika, [{"urlButton": {"displayText": "𝐌𝐲 𝐓𝐢𝐤𝐓𝐨𝐤","url": `${youtube}`}},{"urlButton": {"displayText": `𝐌𝐲 𝐆𝐫𝐮𝐩`,"url": `${mygc}`}},{"quickReplyButton": {"displayText": "☠︎︎𝐎𝐰𝐧𝐞𝐫☠","id": 'owner'}},{"quickReplyButton": {"displayText": "♕︎𝐀𝐥𝐥 𝐌𝐞𝐧𝐮♕︎","id": 'command'}},{"quickReplyButton": {"displayText": "\n\n 𝗦𝗮𝘆𝗮 𝗣𝗲𝗱𝗼 𝗗𝗮𝗻 𝗦𝗮𝘆𝗮 𝗕𝗮𝗻𝗴𝗴𝗮 (≧▽≦) ","id": 'awkokkkkkk'}}] )
 setTimeout( () => {
   sound(from)
   }, 1000),
