@@ -1123,7 +1123,7 @@ case 'Son':
 case 'P':
 if (m.isGroup) return
 let buttons = [
-                        { buttonId: 'gropen', buttonText: { displayText: '𝐒𝐚𝐲𝐚 𝐌𝐞𝐧𝐜𝐚𝐫𝐢 𝐍𝐞𝐥𝐬𝐨𝐧' }, type: 1 },
+                        { buttonId: 'gropen', buttonText: { displayText: '𝐒𝐚𝐲𝐚 𝐌𝐞𝐧𝐜𝐚𝐫𝐢 𝐀𝐳𝐳𝐁𝐨𝐭' }, type: 1 },
                         { buttonId: 'grclose', buttonText: { displayText: '𝐆𝐚𝐤 𝐉𝐚𝐝𝐢🐦' }, type: 1 }
                     ]
                     await chika.sendButtonText(m.chat, buttons, `𝐈𝐲𝐚 𝐀𝐝𝐚 𝐘𝐚𝐧𝐠 𝐁𝐢𝐬𝐚 𝐒𝐚𝐲𝐚 𝐁𝐚𝐧𝐭𝐮 𝐊𝐚𝐤 ${pushname} ?\n`, chika.user.name, m)
